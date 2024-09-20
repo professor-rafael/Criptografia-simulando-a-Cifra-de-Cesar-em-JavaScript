@@ -1,0 +1,14 @@
+html, body {
+    margin: 105px;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+    filter: drop-shadow(1px 1px 20px rgb(90,10,255));
+      border-radius: 15px;
+  }
+  
+  p{
+     text-align: center;
+  }
+  
