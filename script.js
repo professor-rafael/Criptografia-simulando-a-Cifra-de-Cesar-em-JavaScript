@@ -74,7 +74,7 @@ let mapa = {
     console.log(codificado);
     
     fill("#D7F9FF");
-    textSize(18);
+    textSize(48);
     textAlign(CENTER, CENTER);
     text(codificado, width / 2, height / 2);
     
