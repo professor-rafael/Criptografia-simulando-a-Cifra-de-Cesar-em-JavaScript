@@ -73,7 +73,7 @@ let mapa = {
     let codificado = codificaMapeamento(palavra);
     console.log(codificado);
     
-    fill("#D7F9FF");
+    fill("black");
     textSize(48);
     textAlign(CENTER, CENTER);
     text(codificado, width / 2, height / 2);
