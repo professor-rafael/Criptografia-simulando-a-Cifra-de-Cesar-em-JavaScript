@@ -68,7 +68,7 @@ let mapa = {
     createCanvas(1500, 600);
     let palavra = prompt("Qual palavra deseja codificar?");
     
-    background("#01080E");
+    background("grey");
     console.log(palavra);
     let codificado = codificaMapeamento(palavra);
     console.log(codificado);
