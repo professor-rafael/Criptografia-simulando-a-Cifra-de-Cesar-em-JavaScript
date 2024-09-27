@@ -65,7 +65,7 @@ let mapa = {
   }
   
   function setup() {
-    createCanvas(1600, 600);
+    createCanvas(1800, 600);
     let palavra = prompt("Qual palavra deseja codificar?");
     
     background("grey");
